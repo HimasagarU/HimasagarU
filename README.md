@@ -14,7 +14,7 @@
 ## About Me
 
 - Building ML systems with a focus on **recommender systems**, **NLP/LLMs**, and **multimodal learning**
-- Honors research in EEG-based attention classification using Riemannian geometry features
+- Honors research in EEG-based attention classification
 - Experience deploying end-to-end pipelines: data ingestion → model inference → REST API
 - Interested in **Graph Neural Networks**, **RAG systems**, and **signal processing**
 - Based in Nellore, Andhra Pradesh, India
@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**AttentionEEG**](https://github.com/HimasagarU/AttentionEEG) | Attention classification across multimodal EEG stimuli (audio, video, text) using Riemannian geometry features and statistical testing | Python, MNE, Scikit-learn, Jupyter |
+| [**AttentionEEG**](https://github.com/HimasagarU/AttentionEEG) | Attention classification across multimodal EEG stimuli (audio, video, text) | Python, MNE, Scikit-learn, Jupyter |
 | [**Modality-Invariant Biomarker Discovery**](https://github.com/HimasagarU/Modality-Invariant-Biomarker-Discovery-for-Attention-using-EEG) | Identifying stable EEG biomarkers for attention that generalize across audio, video, and text modalities | Python, EEG Signal Processing |
 
 ### Graph Neural Networks
