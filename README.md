@@ -2,7 +2,6 @@
 
 # Hi there, I'm Himasagar U
 
-[![GitHub followers](https://img.shields.io/github/followers/HimasagarU?label=Follow&style=social)](https://github.com/HimasagarU)
 
 **ML/AI Engineer · Python · PyTorch · FastAPI**
 
