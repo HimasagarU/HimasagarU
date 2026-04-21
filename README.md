@@ -17,7 +17,7 @@
 - Honors research in EEG-based attention classification
 - Experience deploying end-to-end pipelines: data ingestion → model inference → REST API
 - Interested in **Graph Neural Networks**, **RAG systems**, and **signal processing**
-- Based in Nellore, Andhra Pradesh, India
+- Based in Hyderabad, Telangana, India
 
 ---
 
