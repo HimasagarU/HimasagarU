@@ -2,8 +2,7 @@
 
 # Hi there, I'm Himasagar U
 
-
-**ML/AI Engineer · Python · PyTorch · FastAPI**
+**ML/AI Engineer · Python · PyTorch · LangGraph · FastAPI**
 
 *Designing and building machine learning systems — from model training to production APIs.*
 
@@ -13,24 +12,36 @@
 
 ## About Me
 
-- Building ML systems with a focus on **recommender systems**, **NLP/LLMs**, and **multimodal learning**
-- Honors research in EEG-based attention classification
+- Building ML systems with a focus on **agentic AI**, **recommender systems**, **NLP/LLMs**, and **multimodal learning**
+- Honors research in EEG-based attention classification and cross-subject biomarker discovery
 - Experience deploying end-to-end pipelines: data ingestion → model inference → REST API
-- Interested in **Graph Neural Networks**, **RAG systems**, and **signal processing**
-- Based in Hyderabad, Telangana, India
+- Interested in **LangGraph agents**, **RAG systems**, **Graph Neural Networks**, and **signal processing**
+- Based in Chennai, Tamil Nadu, India
 
 ---
 
 ## Featured Projects
 
-### Recommender Systems & AI
+### Agentic AI & LLM Systems
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**FasRec-AI-Engine**](https://github.com/HimasagarU/FasRec-AI-Engine) | Multimodal fashion recommender for 44k+ products using CLIP image embeddings, SBERT text embeddings, and FAISS HNSW ANN search. FastAPI backend with Cloudflare R2 storage. | Python, PyTorch, CLIP, SBERT, FAISS, FastAPI |
-| [**Arxiv-RAG-Assistant**](https://github.com/HimasagarU/Arxiv-RAG-Assistant) | Research assistant using hybrid search (BM25 + dense embeddings + reranking) to answer questions with citations from scientific papers. Powered by Llama 3. | Python, FastAPI, BM25, RAG, Llama 3 |
+| [**LangGraph-ReAct-Reasoning-Agent**](https://github.com/HimasagarU/LangGraph-ReAct-Reasoning-Agent-Tool-Augmented-AI-System) | Tool-augmented reasoning agent using LangGraph ReAct loop with intent classification, multi-step reasoning, and a self-critique review pass. Supports Tavily search, Wikipedia lookup, and calculator tools. SSE streaming + FastAPI frontend. | Python, LangGraph, LangChain, Groq, Tavily, FastAPI |
+| [**Arxiv-RAG-Assistant**](https://github.com/HimasagarU/Arxiv-RAG-Assistant) | Research assistant using hybrid search (BM25 + dense embeddings + cross-encoder reranking) to answer questions with citations from scientific papers. Powered by Llama 3 via Groq. | Python, FastAPI, BM25, ChromaDB, RAG, Llama 3 |
+
+### Recommender Systems & Multimodal AI
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**FasRec-AI-Engine**](https://github.com/HimasagarU/FasRec-AI-Engine) | Multimodal fashion recommender for 44k+ products using CLIP image embeddings, SBERT text embeddings, and FAISS HNSW ANN search. FastAPI backend with Cloudflare R2 storage. Deployed on Render. | Python, PyTorch, CLIP, SBERT, FAISS, FastAPI |
 | [**Simple-Arxiv-Paper-Recommender**](https://github.com/HimasagarU/Simple-Arxiv-Paper-Recommender) | NLP prototype recommending related arXiv papers via TF-IDF and embedding-based abstract similarity | Python, NLP, TF-IDF, Embeddings |
 | [**Simple-Fashion-Recommendation-System-Phase1**](https://github.com/HimasagarU/Simple-Fashion-Recommendation-System-Phase1) | Content-based fashion recommender using K-Means clustering on product attributes and image features | Python, K-Means, Jupyter |
+
+### Data Engineering & ML Pipelines
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Loan-Collections-Recovery-Engine**](https://github.com/HimasagarU/Loan-Collections-Recovery-Engine) | End-to-end SQL + ML pipeline on the Home Credit dataset. Warehouse design (staging → dims → facts → analytical marts), delinquency feature engineering, recovery propensity scoring with LightGBM, and dashboard-ready Power BI exports. | Python, PostgreSQL, SQLAlchemy, LightGBM, scikit-learn, pandas |
 
 ### EEG & Signal Processing
 
@@ -49,7 +60,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Protein Remote Homology Detection**](https://github.com/HimasagarU/Protein-Remote-Homology-Detection-by-Sequence-Embeddings-Alignment) | Remote protein homolog detection via sequence embedding alignment | Python, Sequence Embeddings |
+| [**Protein Remote Homology Detection**](https://github.com/HimasagarU/Protein-Remote-Homology-Detection-by-Sequence-Embeddings-Alignment) | Remote protein homolog detection via ESM-2 sequence embedding alignment and Smith-Waterman scoring | Python, ESM-2, Sequence Embeddings |
 
 ### Web & Full-Stack
 
@@ -80,8 +91,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-00A6A4?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat)
 ![OpenAI CLIP](https://img.shields.io/badge/CLIP-412991?style=flat&logo=openai&logoColor=white)
+
+**Agentic & LLM Frameworks**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
 
 **Backend & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -93,8 +110,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 **Databases & Storage**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
 
 **Tools & Deployment**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
