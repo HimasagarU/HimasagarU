@@ -1,6 +1,6 @@
 <!-- COVER BANNER -->
 <div align="center">
-  <img src="./cover.png" alt="Himasagar Ullamgunta — ML/AI Engineer" width="100%" />
+  <img src="./cover_photo.png" alt="Himasagar Ullamgunta — ML/AI Engineer" width="100%" />
 </div>
 
 <br/>
