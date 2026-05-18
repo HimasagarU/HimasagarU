@@ -27,13 +27,13 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**LangGraph-ReAct-Reasoning-Agent**](https://github.com/HimasagarU/LangGraph-ReAct-Reasoning-Agent-Tool-Augmented-AI-System) | Tool-augmented reasoning agent using LangGraph ReAct loop with intent classification, multi-step reasoning, and a self-critique review pass. Supports Tavily search, Wikipedia lookup, and calculator tools. SSE streaming + FastAPI frontend. | Python, LangGraph, LangChain, Groq, Tavily, FastAPI |
-| [**Arxiv-RAG-Assistant**](https://github.com/HimasagarU/Arxiv-RAG-Assistant) | Research assistant using hybrid search (BM25 + dense embeddings + cross-encoder reranking) to answer questions with citations from scientific papers. Powered by Llama 3 via Groq. | Python, FastAPI, BM25, ChromaDB, RAG, Llama 3 |
+| [**Arxiv-RAG-Assistant**](https://github.com/HimasagarU/Arxiv-RAG-Assistant) | RAG system for mechanistic interpretability research. Hybrid retrieval (dense + BM25 + RRF + reranking), intent-aware generation, and full-text ArXiv paper ingestion. Deployed at [arxiv-rag-assistant.vercel.app](https://arxiv-rag-assistant.vercel.app). | Python, FastAPI, BM25, Qdrant, RAG, Llama 3 |
 
 ### Recommender Systems & Multimodal AI
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**FasRec-AI-Engine**](https://github.com/HimasagarU/FasRec-AI-Engine) | Multimodal fashion recommender for 44k+ products using CLIP image embeddings, SBERT text embeddings, and FAISS HNSW ANN search. FastAPI backend with Cloudflare R2 storage. Deployed on Render. | Python, PyTorch, CLIP, SBERT, FAISS, FastAPI |
+| [**FasRec-AI-Engine**](https://github.com/HimasagarU/FasRec-AI-Engine) | Production-grade fashion recommendation platform for 44k+ products using SigLIP vision embeddings, BGE text embeddings, FAISS HNSW ANN search, RRF fusion, and LLaMA 3.3-70B outfit styling. FastAPI backend + React frontend + Supabase. Deployed at [fas-rec-ai-engine.vercel.app](https://fas-rec-ai-engine.vercel.app). | Python, PyTorch, SigLIP, BGE, FAISS, LLaMA 3.3-70B, FastAPI, React, Supabase |
 | [**Simple-Arxiv-Paper-Recommender**](https://github.com/HimasagarU/Simple-Arxiv-Paper-Recommender) | NLP prototype recommending related arXiv papers via TF-IDF and embedding-based abstract similarity | Python, NLP, TF-IDF, Embeddings |
 | [**Simple-Fashion-Recommendation-System-Phase1**](https://github.com/HimasagarU/Simple-Fashion-Recommendation-System-Phase1) | Content-based fashion recommender using K-Means clustering on product attributes and image features | Python, K-Means, Jupyter |
 
@@ -93,7 +93,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LightGBM](https://img.shields.io/badge/LightGBM-00A6A4?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat)
-![OpenAI CLIP](https://img.shields.io/badge/CLIP-412991?style=flat&logo=openai&logoColor=white)
+![SigLIP](https://img.shields.io/badge/SigLIP-412991?style=flat&logo=google&logoColor=white)
 
 **Agentic & LLM Frameworks**
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -112,7 +112,8 @@
 **Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 **Tools & Deployment**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
