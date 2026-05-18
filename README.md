@@ -95,12 +95,6 @@ location : Chennai, Tamil Nadu, India
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimasagarU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)](https://github.com/HimasagarU)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimasagarU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/HimasagarU)
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=HimasagarU&theme=tokyonight&hide_border=true)](https://github.com/HimasagarU)
 
 </div>
