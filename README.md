@@ -1,6 +1,6 @@
 <!-- COVER BANNER -->
 <div align="center">
-  <img src="./cover.png" alt="Himasagar U — ML/AI Engineer" width="100%" />
+  <img src="./cover.png" alt="Himasagar Ullamgunta — ML/AI Engineer" width="100%" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <!-- HEADER -->
 <div align="center">
 
-# Himasagar U
+# Himasagar Ullamgunta
 
 `ML/AI Engineer` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `FastAPI`
 
