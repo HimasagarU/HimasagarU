@@ -28,10 +28,11 @@
 
 ```yaml
 role     : ML/AI Engineer · building end-to-end intelligent systems
-focus    : Agentic AI · RAG Systems · LLMs · Multimodal Learning · Recommender Systems
+focus    : Agentic AI · RAG Systems · LLMs · GenAI · Multimodal Learning · Recommender Systems
+domain   : ML · DL · RL · AI · NLP · Computer Vision · Generative AI
+pipeline : data ingestion → feature engineering → model training → inference → REST API → production
+deployed : FastAPI · Vercel · Render · Supabase · Docker
 research : EEG-based attention classification · cross-subject biomarker discovery (BCI)
-pipeline : data ingestion → feature engineering → model inference → REST API → production
-interests: LangGraph agents · Graph Neural Networks · Signal Processing · Protein Bioinformatics
 location : Hyderabad, Telangana, India
 ```
 
