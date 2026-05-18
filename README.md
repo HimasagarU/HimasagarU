@@ -95,13 +95,13 @@ location : Chennai, Tamil Nadu, India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HimasagarU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=HimasagarU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimasagarU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimasagarU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=HimasagarU&theme=tokyonight&hide_border=true&background=00000000" />
+<img src="https://streak-stats.demolab.com?user=HimasagarU&theme=tokyonight&hide_border=true" />
 
 </div>
 
