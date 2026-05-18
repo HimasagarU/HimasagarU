@@ -27,11 +27,12 @@
 ## &nbsp; About Me
 
 ```yaml
-focus    : Agentic AI · Recommender Systems · NLP/LLMs · Multimodal Learning
-research : EEG-based attention classification · cross-subject biomarker discovery
-pipeline : data ingestion → model inference → REST API → production
-interests: LangGraph agents · RAG systems · Graph Neural Networks · Signal Processing
-location : Chennai, Tamil Nadu, India
+role     : ML/AI Engineer · building end-to-end intelligent systems
+focus    : Agentic AI · RAG Systems · LLMs · Multimodal Learning · Recommender Systems
+research : EEG-based attention classification · cross-subject biomarker discovery (BCI)
+pipeline : data ingestion → feature engineering → model inference → REST API → production
+interests: LangGraph agents · Graph Neural Networks · Signal Processing · Protein Bioinformatics
+location : Hyderabad, Telangana, India
 ```
 
 <br/>
