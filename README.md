@@ -1,170 +1,180 @@
-<!-- COVER BANNER -->
 <div align="center">
   <img src="./cover_photo.png" alt="Himasagar Ullamgunta — ML/AI Engineer" width="100%" />
 </div>
 
 <br/>
 
-<!-- HEADER -->
 <div align="center">
 
 # Himasagar Ullamgunta
 
-`ML/AI Engineer` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `FastAPI`
+**ML / AI Engineer** — I build machine learning systems end to end, from model training to production APIs.
 
-*Designing and building machine learning systems — from model training to production APIs.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-HimasagarU-181717?style=flat-square&logo=github)](https://github.com/HimasagarU)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-himasagar.evo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:himasagar.evo@gmail.com)
+[![GitHub](https://img.shields.io/badge/HimasagarU-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/HimasagarU)
+[![Email](https://img.shields.io/badge/himasagar.evo%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:himasagar.evo@gmail.com)
+[![Location](https://img.shields.io/badge/Hyderabad%2C_India-161b22?style=flat-square&logo=googlemaps&logoColor=3ECF8E)](#)
 
 </div>
 
 <br/>
 
----
+## `~/whoami`
 
-## &nbsp; About Me
+```python
+class Himasagar:
+    role     = "ML/AI Engineer"
+    location = "Hyderabad, Telangana, India"
 
-```yaml
-role     : ML/AI Engineer · building end-to-end intelligent systems
-focus    : Agentic AI · RAG Systems · LLMs · GenAI · Multimodal Learning · Recommender Systems
-domain   : Machine Learning · Deep Learning · Reinforcement Learning · NLP · Computer Vision · Generative AI
-pipeline : data ingestion → feature engineering → model training → inference → REST API → production
-deployed : FastAPI · Vercel · Render · Supabase · Docker
-research : EEG-based attention classification · cross-subject biomarker discovery (BCI)
-location : Hyderabad, Telangana, India
+    focus = [
+        "Agentic AI", "RAG Systems", "LLMs",
+        "Multimodal Learning", "Recommender Systems",
+    ]
+    domains = [
+        "Machine Learning", "Deep Learning", "NLP",
+        "Computer Vision", "Reinforcement Learning", "Generative AI",
+    ]
+    research = "EEG-based attention classification · cross-subject biomarker discovery (BCI)"
+
+    def pipeline(self):
+        return "data → features → training → inference → REST API → production"
 ```
 
 <br/>
 
----
+## `~/focus`
 
-## &nbsp; Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**ML / DL / AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LightGBM](https://img.shields.io/badge/LightGBM-00A6A4?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square)
-![SigLIP](https://img.shields.io/badge/SigLIP-412991?style=flat-square&logo=google&logoColor=white)
-
-**Agentic & LLM Frameworks**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Databases & Storage**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Tools & Deployment**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<br/>
-
----
-
-## &nbsp; GitHub Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Agents &amp; LLM systems</b><br/>
+      <sub>Tool-augmented ReAct agents with multi-step reasoning, self-critique passes, and streaming APIs.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Retrieval &amp; RAG</b><br/>
+      <sub>Hybrid search (dense + BM25), rank fusion, cross-encoder reranking, and full-text document ingestion.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Recommenders &amp; multimodal</b><br/>
+      <sub>Vision + text embeddings, ANN search over large catalogs, and LLM-driven generation on top.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>EEG &amp; BCI research</b><br/>
+      <sub>Attention classification across audio, video, and text stimuli; biomarkers that generalize across subjects.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Graph &amp; sequence learning</b><br/>
+      <sub>GCN / GraphSAGE for classification, protein language-model embeddings for remote homology detection.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Data &amp; ML pipelines</b><br/>
+      <sub>SQL warehouse design, feature engineering, gradient-boosted scoring models, and BI-ready exports.</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HimasagarU&theme=tokyonight&hide_border=true)](https://github.com/HimasagarU)
-
+  <br/>
+  <a href="https://github.com/HimasagarU?tab=repositories"><b>Browse my repositories →</b></a>
 </div>
 
 <br/>
 
----
+## `~/stack`
 
-## &nbsp; Featured Projects
-
-### Agentic AI & LLM Systems
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**LangGraph-ReAct-Reasoning-Agent**](https://github.com/HimasagarU/LangGraph-ReAct-Reasoning-Agent-Tool-Augmented-AI-System) | Tool-augmented reasoning agent using LangGraph ReAct loop with intent classification, multi-step reasoning, and a self-critique review pass. Supports Tavily search, Wikipedia lookup, and calculator tools. SSE streaming + FastAPI frontend. | `Python` `LangGraph` `LangChain` `Groq` `Tavily` `FastAPI` |
-| [**Arxiv-RAG-Assistant**](https://github.com/HimasagarU/Arxiv-RAG-Assistant) &nbsp; [![Live](https://img.shields.io/badge/live-▶-3ECF8E?style=flat-square)](https://arxiv-rag-assistant.vercel.app) | RAG system for mechanistic interpretability research. Hybrid retrieval (dense + BM25 + RRF + reranking), intent-aware generation, full-text ArXiv paper ingestion. | `Python` `FastAPI` `BM25` `Qdrant` `Llama 3` |
-
-### Recommender Systems & Multimodal AI
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**FasRec-AI-Engine**](https://github.com/HimasagarU/FasRec-AI-Engine) &nbsp; [![Live](https://img.shields.io/badge/live-▶-3ECF8E?style=flat-square)](https://fas-rec-ai-engine.vercel.app) | Production-grade fashion recommendation platform for 44k+ products. SigLIP vision embeddings, BGE text embeddings, FAISS HNSW ANN, RRF fusion, LLaMA 3.3-70B outfit styling. FastAPI + React + Supabase. | `SigLIP` `BGE` `FAISS` `LLaMA 3.3-70B` `FastAPI` `React` `Supabase` |
-| [**Simple-Arxiv-Paper-Recommender**](https://github.com/HimasagarU/Simple-Arxiv-Paper-Recommender) | NLP prototype recommending related arXiv papers via TF-IDF and embedding-based abstract similarity. | `Python` `NLP` `TF-IDF` |
-| [**Simple-Fashion-Recommendation-System-Phase1**](https://github.com/HimasagarU/Simple-Fashion-Recommendation-System-Phase1) | Content-based fashion recommender using K-Means clustering on product attributes and image features. | `Python` `K-Means` |
-
-### Data Engineering & ML Pipelines
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**Loan-Collections-Recovery-Engine**](https://github.com/HimasagarU/Loan-Collections-Recovery-Engine) | End-to-end SQL + ML pipeline on the Home Credit dataset. Warehouse design (staging → dims → facts → marts), delinquency feature engineering, recovery propensity scoring with LightGBM, Power BI exports. | `Python` `PostgreSQL` `SQLAlchemy` `LightGBM` `scikit-learn` |
-
-### EEG & Signal Processing
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**AttentionEEG**](https://github.com/HimasagarU/AttentionEEG) | Attention classification across multimodal EEG stimuli (audio, video, text). | `Python` `MNE` `Scikit-learn` |
-| [**Modality-Invariant Biomarker Discovery**](https://github.com/HimasagarU/Modality-Invariant-Biomarker-Discovery-for-Attention-using-EEG) | Identifying stable EEG biomarkers for attention that generalize across audio, video, and text modalities. | `Python` `EEG` `Signal Processing` |
-
-### Graph Neural Networks
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**DbPedia Entity Classification**](https://github.com/HimasagarU/DbPedia-Enitity-Classification-using-GCNs-and-GraphSage) | Multiclass text classification on DBpedia-14 using GCN and GraphSAGE architectures. | `Python` `PyTorch Geometric` |
-
-### Computational Biology
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**Protein Remote Homology Detection**](https://github.com/HimasagarU/Protein-Remote-Homology-Detection-by-Sequence-Embeddings-Alignment) | Remote protein homolog detection via ESM-2 sequence embedding alignment and Smith-Waterman scoring. | `Python` `ESM-2` |
-
-### Web & Full-Stack
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**EstateCraft**](https://github.com/HimasagarU/EstateCraft) | Full-stack MERN platform for property listings with Stripe payments and role-based auth. | `React` `Redux` `Node.js` `MongoDB` `Stripe` |
-| [**NourishNest**](https://github.com/HimasagarU/NourishNest) | Nutrition and diet planning platform with recipe database and meal tracking via Spoonacular API. | `Node.js` `Express` `MongoDB` |
-| [**Smart-Scheduler**](https://github.com/HimasagarU/Smart-Scheduler) | Context-aware task scheduling assistant. | `Python` `JavaScript` |
-| [**Smart-Pg-Review-Platform**](https://github.com/HimasagarU/Smart-Pg-Review-Platform) | PG accommodation review and discovery platform. | `TypeScript` |
-
-### Security
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**CSRF Attack & Defense Demo**](https://github.com/HimasagarU/csrf-attack-defense-demo) | Demonstrates CSRF vulnerability and OWASP-compliant defense mechanisms. | `Node.js` `EJS` |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=4479A1" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML / DL</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/PyTorch_Geometric-161b22?style=flat-square&logo=pyg&logoColor=3C2179" alt="PyTorch Geometric" />
+      <img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/LightGBM-161b22?style=flat-square" alt="LightGBM" />
+      <img src="https://img.shields.io/badge/MNE-161b22?style=flat-square" alt="MNE" />
+      <img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLMs &amp; Agents</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Groq-161b22?style=flat-square" alt="Groq" />
+      <img src="https://img.shields.io/badge/Gemini-161b22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Llama_3-161b22?style=flat-square&logo=meta&logoColor=0467DF" alt="Llama 3" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Retrieval</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FAISS-161b22?style=flat-square" alt="FAISS" />
+      <img src="https://img.shields.io/badge/Qdrant-161b22?style=flat-square&logo=qdrant&logoColor=DC244C" alt="Qdrant" />
+      <img src="https://img.shields.io/badge/BM25-161b22?style=flat-square" alt="BM25" />
+      <img src="https://img.shields.io/badge/SigLIP-161b22?style=flat-square" alt="SigLIP" />
+      <img src="https://img.shields.io/badge/BGE-161b22?style=flat-square" alt="BGE" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-161b22?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Redux-161b22?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+      <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ship</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-161b22?style=flat-square&logo=render&logoColor=white" alt="Render" />
+      <img src="https://img.shields.io/badge/Cloudflare_R2-161b22?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare R2" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
----
+## `~/activity`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HimasagarU&hide_border=true&background=00000000&ring=3ECF8E&fire=3ECF8E&currStreakNum=8B949E&currStreakLabel=3ECF8E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E55)](https://github.com/HimasagarU)
+
+</div>
+
+<br/>
 
 <div align="center">
   <sub>Built with curiosity. Deployed with purpose.</sub>
